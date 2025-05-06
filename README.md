@@ -68,9 +68,19 @@ I'm **Guntur Lailam Yuro**, a passionate student and aspiring full-stack develop
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gunturlailam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=gunturlailam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![lawak](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47tfrafp50jc39siti7y97ehj6z2s2nvualhj3ca5f&ep=v1_gifs_search&rid=giphy.gif&ct=g) -->
+<h3 align="left">👩‍💻  Play with game</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunturlailam/gunturlailam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunturlailam/gunturlailam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gunturlailam/gunturlailam/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
