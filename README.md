@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm **Guntur Lailam Yuro**, a passionate student and aspiring full-stack developer based in Indonesia 🇮🇩.
 
-![foto saya](assets/sampul.jpg)
+![my badge](assets/github-header-image.png)
 
 🎓 Currently a 4th semester student at **STMIK-AMIK Jayanusa**  
 💻 Focused on learning **JavaScript**, **PHP**, and modern web development  
